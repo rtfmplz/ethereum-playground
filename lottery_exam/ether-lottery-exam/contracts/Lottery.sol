@@ -35,6 +35,4 @@ contract Lottery {
         require(msg.sender == manager);
         _; //All the replace code include
     }
-
-
 }

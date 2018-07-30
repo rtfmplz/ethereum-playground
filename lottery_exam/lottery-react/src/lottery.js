@@ -1,6 +1,7 @@
 import web3 from './web3';
 
-const address = '0x6D02E4aD1E1870E96E41E5735A2ddb02165C213b';
+//https://rinkeby.etherscan.io/address/0xb7ef2d5431c605ec71c589d71fdfe30594dec615
+const address = '0xB7ef2d5431c605Ec71c589d71fDfE30594deC615';
 
 const abi = [
   {
